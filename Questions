@@ -1,0 +1,14 @@
+Download and upload the Mall Customer Dataset from Kaggle.
+Link: https://www.kaggle.com/datasets/shwetabh123/mall-customers?resource=download
+Get the summary of the data set.
+Check the presence of null value and replace it with the mean value of that column.
+Find out the monthly income and add that as a new variable.
+Ushing conditional statement find out the number of females in the dataset.
+Come up with the appropriate visualization for below mentioned variables
+Age
+Genre
+Age and Genre
+Age and Income
+Income and Spending score
+Find out the correlation between all the variables.
+Plot the correlation using lattice package.
